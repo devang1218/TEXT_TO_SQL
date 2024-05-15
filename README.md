@@ -5,8 +5,6 @@ Want to get information from a database without writing SQL? This video demonstr
 Talk to this AI assistant about your database! It understands natural language and automatically generates SQL queries to retrieve the data you need and presents the results in a clear table format.
 _Just chat with it, and it will do the searching for you._
 
-<video controls src="SQL query Retriever - Google Chrome 2024-05-15 17-19-12.mp4" title="Title"></video>
-
 <h1>Tables in database:</h1>
 
 <h2>Customers Table</h2>
