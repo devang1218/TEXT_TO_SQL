@@ -1,0 +1,6 @@
+app.py
+/student.db
+
+# venv
+/text2sql
+/.env
