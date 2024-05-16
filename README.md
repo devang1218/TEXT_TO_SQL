@@ -19,10 +19,6 @@ User input: extract the customer_id,age, item ,and total quantities of each item
 
 ![alt text](/images/image-6.png)
 
-Output table:
-
-[text](/images/2024-05-16T05-17_export.csv)
-
 <h1>Tables in database:</h1>
 
 <h2>Customers Table</h2>
