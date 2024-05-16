@@ -7,6 +7,10 @@ _Just chat with it, and it will do the searching for you._
 
 https://github.com/devang1218/TEXT_TO_SQL/assets/46046916/912843f1-ceeb-43de-8f9c-7428badd849f
 
+Query for "give me sales id, item_id and quantity where customer purchased only 2 items" :
+
+![alt text](image-5.png)
+
 <h1>Tables in database:</h1>
 
 <h2>Customers Table</h2>
