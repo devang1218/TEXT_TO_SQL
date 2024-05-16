@@ -19,6 +19,10 @@ User input: extract the customer_id,age, item ,and total quantities of each item
 
 ![alt text](/images/image-6.png)
 
+Query created by the bot :
+
+![alt text](/images/image-7.png)
+
 <h1>Tables in database:</h1>
 
 <h2>Customers Table</h2>
