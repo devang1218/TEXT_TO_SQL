@@ -64,7 +64,7 @@ submit=st.button("Ask the question")
 if submit:
     response=get_gemini_response(question,prompt)
     print(response)
-    response=read_sql_query(response,"D:\Python Projects\TEXT_TO_SQL\Sales.db")
+    response=read_sql_query(response,"D:\Python Projects\TEXT_TO_SQL\database\Sales.db")
     st.subheader("Result:")
     # for row in response:
     #     print(row)

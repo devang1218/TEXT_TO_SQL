@@ -7,9 +7,21 @@ _Just chat with it, and it will do the searching for you._
 
 https://github.com/devang1218/TEXT_TO_SQL/assets/46046916/912843f1-ceeb-43de-8f9c-7428badd849f
 
-Query for "give me sales id, item_id and quantity where customer purchased only 2 items" :
+Example 1:
+
+User input: "give me sales id, item_id and quantity where customer purchased only 2 items" :
 
 ![alt text](image-5.png)
+
+Example 2:
+
+User input: extract the customer_id,age, item ,and total quantities of each item bought per customer aged 18-35. For each customer, get the sum of each item. Items with no purchase (total quantity=0) should be omitted from the final list.
+
+![alt text](image-6.png)
+
+Output table:
+
+[text](2024-05-16T05-17_export.csv)
 
 <h1>Tables in database:</h1>
 

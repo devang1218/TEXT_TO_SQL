@@ -1,5 +1,7 @@
-app.py
-/student.db
+/app/app.py
+/app/app_openai.py
+
+database/student.db
 
 # venv
 /text2sql
