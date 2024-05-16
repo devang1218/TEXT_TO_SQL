@@ -11,32 +11,34 @@ Example 1:
 
 User input: "give me sales id, item_id and quantity where customer purchased only 2 items" :
 
-![alt text](image-5.png)
+![alt text](/images/image-5.png)
 
 Example 2:
 
 User input: extract the customer_id,age, item ,and total quantities of each item bought per customer aged 18-35. For each customer, get the sum of each item. Items with no purchase (total quantity=0) should be omitted from the final list.
 
-![alt text](image-6.png)
+![alt text](/images/image-6.png)
 
 Output table:
 
-[text](2024-05-16T05-17_export.csv)
+[text](/images/2024-05-16T05-17_export.csv)
 
 <h1>Tables in database:</h1>
 
 <h2>Customers Table</h2>
 
-![alt text](image-1.png)
+![alt text](/images/image-1.png)
 
 <h2>Orders Table</h2>
 
-![alt text](image-2.png)
+![alt text](/images/image-2.png)
 
 <h2>Sales Table</h2>
 
-![alt text](image-3.png)
+![alt text](/images/image-3.png)
 
 <h2>Items Table</h2>
 
-![alt text](image-4.png)
+![alt text](/images/image-4.png)
+
+`Happy coding!!`
